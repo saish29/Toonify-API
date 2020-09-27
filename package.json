@@ -1,0 +1,18 @@
+{
+  "name": "toonify-api",
+  "version": "1.0.0",
+  "description": "An API to convert images into caricature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Saish Mandavkar",
+  "license": "ISC",
+  "dependencies": {
+    "deepai": "^1.0.15",
+    "express": "^4.17.1"
+  }
+}
